@@ -166,9 +166,8 @@ timm==0.6.7
 toml==0.10.2
 tomli==2.0.1
 toolz==0.11.1
-torch==1.10.2+cpu
-torchaudio==0.10.2+cpu
-torchvision==0.11.3+cpu
+torch>=1.7.0
+torchvision>=0.8.1
 tornado==6.1
 tqdm==4.64.0
 traitlets==5.1.1
